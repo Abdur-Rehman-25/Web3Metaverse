@@ -1,0 +1,28 @@
+p.abc {
+    color: blueviolet;
+}
+li>a {
+    color: chartreuse;
+}
+/* * {
+    background-color: burlywood;
+} */
+/* body {
+    background-color: aqua;
+} */
+#abc {
+     width: 120px;
+     height: 120px;
+     background-color: rgb(138, 43, 226);
+}
+#xyz {
+    width: 120px;
+     height: 120px;
+     background-color: rgb(255, 99, 71,0.5);
+     margin-top: -60px;
+     margin-left: 60px;
+}
+@font-face {
+    font-family: '';
+    src: url('');
+}
